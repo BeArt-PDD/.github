@@ -1,4 +1,4 @@
-## OneKey
+## BeArt
 
  **🗺️ Global High-Value Artworks RWA Issuance and Trading Platform, Connecting the Real and Crypto Worlds.** Learn more [here](https://www.beart.one/).
 
