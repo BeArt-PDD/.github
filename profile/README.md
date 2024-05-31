@@ -1,6 +1,7 @@
 ## BeArt
 
  **🗺️ Global High-Value Artworks RWA Issuance and Trading Platform, Connecting the Real and Crypto Worlds.** Learn more [here](https://www.beart.one/).
+![logo](https://github.com/BeArt-PDD/.github/assets/29502440/71ccd734-b21b-4bb7-9cd4-1ed42030b0f2)
 
 #### 🗳️ ERC721g - GNFT
 
@@ -44,8 +45,6 @@ All team updates will be synchronized across these platforms.
             <td>
             <li> Remote (Live anywhere)</li>
             <li> Global Pay (Literally)</li>
-            <li> ESOP (For everybody)</li>
-            <li> Open Source (As you see)</li>
             <li> Awesome Colleagues (Hell Yeah!)</li>
             </td>
         </tr>
