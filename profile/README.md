@@ -43,6 +43,12 @@ All team updates will be synchronized across these platforms.
     <tbody>
         <tr>
             <td>
+            <li> Frontend Developer</li>
+            <li> Backend Developer</li>
+            </td>
+        </tr>
+        <tr>
+            <td>
             <li> Remote (Live anywhere)</li>
             <li> Global Pay (Literally)</li>
             <li> Awesome Colleagues (Hell Yeah!)</li>
